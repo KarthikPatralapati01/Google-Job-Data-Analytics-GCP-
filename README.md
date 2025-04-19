@@ -11,6 +11,8 @@ This project focused on delivering end-to-end cloud analytics using **Google Clo
 [Kaggle – Historic Data Analyst Job Postings](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search)
 
 ---
+## Pipeline Archtecture
+<img width="1050" alt="image" src="https://github.com/user-attachments/assets/d29a60e4-5cb1-42dc-96a6-737be2a47cfa" />
 
 ## 🧱 Cloud Architecture & Tools
 
